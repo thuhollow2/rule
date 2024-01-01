@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "new-t.github.io",
+                "t-hole.github.io",
+                "thu.closed.social",
+                "thuhollow.github.io"
+            ]
+        },
+        {
+            "domain_suffix": [
+                ".13042332817.top",
+                ".ashitblake.top",
+                ".beasking.top",
+                ".c1.biz",
+                ".fakeopen.com",
+                ".hole-thu-qwertyuiop.xyz",
+                ".pp.ua",
+                ".sbsybqlaaaaaaa.buzz",
+                ".shudongdehouduan.click",
+                ".tholeapis.top",
+                ".zaiwen.top",
+                ".zaiwenai.top",
+                ".zaiwenback.top",
+                ".zaiwenbak.top"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "tsinghua"
+            ]
+        }
+    ]
+}

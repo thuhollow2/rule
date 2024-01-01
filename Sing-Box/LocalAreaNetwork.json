@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "api.github.com",
+                "captive.apple.com",
+                "connect.rom.miui.com",
+                "connectivitycheck.gstatic.com",
+                "connectivitycheck.platform.hicloud.com",
+                "detectportal.firefox.com",
+                "edge.microsoft.com",
+                "wifi.vivo.com.cn"
+            ]
+        },
+        {
+            "domain_suffix": [
+                ".bing.com.cn",
+                ".cn.bing.com",
+                ".cn.mm.bing.net",
+                ".msftconnecttest.com",
+                ".msftncsi.com"
+            ]
+        }
+    ]
+}
