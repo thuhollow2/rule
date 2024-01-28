@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                ".bing.com",
+                ".bing.net",
+                ".bingads.com",
+                ".bingagencyawards.com",
+                ".bingapistatistics.com",
+                ".bingsandbox.com",
+                ".bingvisualsearch.com",
+                ".bingworld.com",
+                ".bluehatnights.com",
+                ".dictate.ms",
+                ".ditu.live.com",
+                ".flipwithsurface.com",
+                ".masalladeloslimites.com",
+                ".microsoft-give.com",
+                ".microsoftcloudsummit.com",
+                ".microsoftdiplomados.com",
+                ".microsoftlatamholiday.com",
+                ".microsoftmxfilantropia.com",
+                ".microsoftpartnersolutions.com",
+                ".msunlimitedcloudsummit.com",
+                ".renovacionoffice.com",
+                ".sprinklesapp.com"
+            ]
+        }
+    ]
+}
