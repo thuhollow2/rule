@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                ".apis.google.com",
+                ".bard.google.com",
+                ".deepmind.google",
+                ".g.co",
+                ".gemini.google.com"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "colab",
+                "developerprofiles",
+                "generativelanguage"
+            ]
+        }
+    ]
+}
