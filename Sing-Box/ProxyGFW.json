@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "api.waqi.info",
+                "aqi.aqicn.org",
+                "linux.do",
+                "shuzijumin.com"
+            ]
+        },
+        {
+            "domain_suffix": [
+                ".hk",
+                ".mo",
+                ".tw"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "jav"
+            ]
+        }
+    ]
+}

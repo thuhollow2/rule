@@ -1,0 +1,56 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "blizzard.gcdn.cloudn.co.kr",
+                "blzddist1-a.akamaihd.net",
+                "blzddistkr1-a.akamaihd.net",
+                "cdn-ali.content.steamchina.com",
+                "cdn-qc.content.steamchina.com",
+                "cdn-ws.content.steamchina.com",
+                "client.hikarifield.co.jp",
+                "dl.steam.clngaa.com",
+                "download.dm.origin.com",
+                "download.epicgames.com",
+                "download.hikarifield.co.jp",
+                "download2.epicgames.com",
+                "download3.epicgames.com",
+                "download4.epicgames.com",
+                "edge.steam-dns.top.comcast.net",
+                "epicgames-download1-1251447533.file.myqcloud.com",
+                "epicgames-download1.akamaized.net",
+                "eu.cdn.blizzard.com",
+                "fastly-download.epicgames.com",
+                "gamedownloads-rockstargames-com.akamaized.net",
+                "gog-cdn-lumen.secure2.footprint.net",
+                "kr.cdn.blizzard.com",
+                "level3.blizzard.com",
+                "origin-a.akamaihd.net",
+                "ssl-lvlt.cdn.ea.com",
+                "st.dl.bscstorage.net",
+                "st.dl.eccdnx.com",
+                "steam.eca.qtlglb.com",
+                "steam.naeu.qtlglb.com",
+                "steam.ru.qtlglb.com",
+                "steampipe-kr.akamaized.net",
+                "steampipe-partner.akamaized.net",
+                "steampipe.akamaized.net",
+                "steampipe.steamcontent.tnkjmec.com",
+                "steamusercontent-a.akamaihd.net",
+                "trts.baishancdnx.cn",
+                "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
+                "us.cdn.blizzard.com",
+                "xz.pphimalayanrt.com"
+            ]
+        },
+        {
+            "domain_suffix": [
+                ".cdn.ubi.com",
+                ".dyn.riotcdn.net",
+                ".pdl.wow.battlenet.com.cn",
+                ".steamcontent.com"
+            ]
+        }
+    ]
+}
