@@ -1,9 +1,0 @@
-DOMAIN-KEYWORD,openai,🤖 OpenAI
-DOMAIN-SUFFIX,chat.com,🤖 OpenAI
-DOMAIN-SUFFIX,chatgpt.com,🤖 OpenAI
-DOMAIN-SUFFIX,chatgpt.livekit.cloud,🤖 OpenAI
-DOMAIN-SUFFIX,oaistatic.com,🤖 OpenAI
-DOMAIN-SUFFIX,oaiusercontent.com,🤖 OpenAI
-DOMAIN-SUFFIX,sora.com,🤖 OpenAI
-IP-CIDR,24.199.123.28/32,🤖 OpenAI,no-resolve
-IP-CIDR,64.23.132.171/32,🤖 OpenAI,no-resolve
